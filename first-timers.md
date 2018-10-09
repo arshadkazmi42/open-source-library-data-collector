@@ -17,3 +17,5 @@ It's ok to contribute to docs also, since our docs also helps developers in usin
 It's good for starting with the contribution and once you go through the docs, it will also help you understand the project better
 
 You can find a step by step guide on [Creating a Pull Request](CONTRIBUTING.md#creating-a-pull-request), which will help you understand the `git` flow (if you don't know it already)
+
+> All contributors to the SendGrid docs repo need to sign a CLA before their changes can be merged.
